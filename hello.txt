@@ -1,5 +1,5 @@
 Hello SDA
 
-Add new feature master
+Add new feature to master
 
 More changes
