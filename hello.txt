@@ -2,10 +2,6 @@ Hello SDA
 
 Add new feature on feature branch
 
-<<<<<<< HEAD
-More cookies
-=======
-More bear
->>>>>>> feature
+a
 
 some additional chnages
